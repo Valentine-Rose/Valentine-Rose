@@ -8,6 +8,6 @@
 - 🌍 Fun fact: I love exploring new places and meeting people with unique skills.
 - 💬 Ask me about custom scripting, server management, or game mechanics.
 
-<---Valentine-Rose/Valentine-Rose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--- Valentine-Rose/Valentine-Rose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
