@@ -8,7 +8,7 @@
 - 🌍 Fun fact: I love exploring new places and meeting people with unique skills.
 - 💬 Ask me about custom scripting, server management, or game mechanics.
 
-
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 <!---
 Valentine-Rose/Valentine-Rose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
