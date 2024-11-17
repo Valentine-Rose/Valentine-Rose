@@ -8,5 +8,5 @@
 - 🌍 Fun fact: I love exploring new places and meeting people with unique skills.
 - 💬 Ask me about custom scripting, server management, or game mechanics.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentine-Rose&layout=compact)
+
 
