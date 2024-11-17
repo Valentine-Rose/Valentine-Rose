@@ -7,7 +7,10 @@
 - 📚 Latest project: Developing custom scripts to improve user experience in gaming environments.
 - 🌍 Fun fact: I love exploring new places and meeting people with unique skills.
 - 💬 Ask me about custom scripting, server management, or game mechanics.
-
+- 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 <!---
 Valentine-Rose/Valentine-Rose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
